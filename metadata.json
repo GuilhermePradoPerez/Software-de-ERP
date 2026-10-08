@@ -1,0 +1,6 @@
+{
+  "name": "ManufaturaPro PCP & ERP",
+  "description": "Sistema de planejamento e controle da produção (PCP) e gestão integrada para pequenas indústrias com controle de fichas técnicas, capacidade produtiva e ordens de produção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
